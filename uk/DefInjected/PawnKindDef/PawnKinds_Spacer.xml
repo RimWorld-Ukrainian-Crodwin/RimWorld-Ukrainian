@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: ancient soldier -->
+  <AncientSoldier.label>космічний солдат</AncientSoldier.label>
+  <AncientSoldier.labelPlural>космічні солдати</AncientSoldier.labelPlural>
+  
+  <!-- EN: space refugee -->
+  <SpaceRefugee.label>космічний біженець</SpaceRefugee.label>
+  <SpaceRefugee.labelPlural>космічні біженці</SpaceRefugee.labelPlural>
+  
+</LanguageData>
