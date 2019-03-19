@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: colonist -->
+  <Colonist.label>колоніст</Colonist.label>
+  <Colonist.labelPlural>колоністи</Colonist.labelPlural>
+  
+  <!-- EN: member -->
+  <Tribesperson.label>член племені</Tribesperson.label>
+  <Tribesperson.labelPlural>члени племені</Tribesperson.labelPlural>
+  
+</LanguageData>
