@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <Blueprint_ComponentAssemblyBench.label>Верстат для створення компонентів (проект)</Blueprint_ComponentAssemblyBench.label>
+  
+  <!-- UNUSED -->
+  <Blueprint_FueledGenerator.label>Паливний генератор (проект)</Blueprint_FueledGenerator.label>
+  
+  <!-- UNUSED -->
+  <Blueprint_Install_TableLong.label>Великий стіл (проект)</Blueprint_Install_TableLong.label>
+  
+  <!-- UNUSED -->
+  <Blueprint_Install_TableShort.label>Маленький стіл (проект)</Blueprint_Install_TableShort.label>
+  
+  <!-- UNUSED -->
+  <Blueprint_Install_Turret_MortarBomb.label>Міномет (проект)</Blueprint_Install_Turret_MortarBomb.label>
+  
+  <!-- UNUSED -->
+  <Blueprint_Install_Turret_MortarEMP.label>ЕМІ міномет (проект)</Blueprint_Install_Turret_MortarEMP.label>
+  
+  <!-- UNUSED -->
+  <Blueprint_Install_Turret_MortarIncendiary.label>Запальний міномет (проект)</Blueprint_Install_Turret_MortarIncendiary.label>
+  
+  <!-- UNUSED -->
+  <Blueprint_Install_TurretGun.label>Саморобна турель (проект)</Blueprint_Install_TurretGun.label>
+  
+  <!-- UNUSED -->
+  <Blueprint_Refinery.label>Переробний завод (проект)</Blueprint_Refinery.label>
+  
+  <!-- UNUSED -->
+  <Blueprint_TrapDeadfall.label>Пастка (проект)</Blueprint_TrapDeadfall.label>
+  
+  <!-- UNUSED -->
+  <Blueprint_TurretGun.label>Саморобна турель (проект)</Blueprint_TurretGun.label>
+  
+  <!-- UNUSED -->
+  <Frame_ComponentAssemblyBench.label>Верстат для створення компонентів (будується)</Frame_ComponentAssemblyBench.label>
+  <Frame_ComponentAssemblyBench.description>Верстат, обладнаний покращеними інструментами для створення компонентів із простіших матеріалів.</Frame_ComponentAssemblyBench.description>
+  
+  <!-- UNUSED -->
+  <Frame_FueledGenerator.label>Паливний генератор (будується)</Frame_FueledGenerator.label>
+  <Frame_FueledGenerator.description>Генерує електроенергію, спалюючи дерево. Повинен бути заправлений вручну.</Frame_FueledGenerator.description>
+  
+  <!-- UNUSED -->
+  <Frame_Refinery.label>Переробний завод (будується)</Frame_Refinery.label>
+  <Frame_Refinery.description>Хімічний переробний завод. Використовується для перетворення дерева на хімічне пальне.</Frame_Refinery.description>
+  
+  <!-- UNUSED -->
+  <Frame_TrapDeadfall.label>Пастка (будується)</Frame_TrapDeadfall.label>
+  <Frame_TrapDeadfall.description>Підвішені шипи, що утримуються спусковим механізмом. Коли жертва його активує, вони падають їй на голову чи тулуб.</Frame_TrapDeadfall.description>
+  
+  <!-- UNUSED -->
+  <Frame_TurretGun.label>Саморобна турель (будується)</Frame_TurretGun.label>
+  <Frame_TurretGun.description>Саморобна турель, що автоматично відкриває вогонь по найближчим ворогам. Вибухає при пошкодженні.</Frame_TurretGun.description>
+  
+  <!-- UNUSED -->
+  <Table2x2c_Blueprint.label>Маленький стіл (проект)</Table2x2c_Blueprint.label>
+  
+  <!-- UNUSED -->
+  <Table2x2c_Frame.label>Маленький стіл (будується)</Table2x2c_Frame.label>
+  <Table2x2c_Frame.description>Люди будуть їсти за столом, якщо поруч є стільці.</Table2x2c_Frame.description>
+  
+  <!-- UNUSED -->
+  <Table2x4c_Blueprint.label>Великий стіл (проект)</Table2x4c_Blueprint.label>
+  
+  <!-- UNUSED -->
+  <Table2x4c_Frame.label>Великий стіл (будується)</Table2x4c_Frame.label>
+  <Table2x4c_Frame.description>Люди будуть їсти за столом, якщо поруч є стільці.</Table2x4c_Frame.description>
+  
+  <!-- UNUSED -->
+  <TrapIED_HighExplosive_Blueprint.label>Саморобна міна (проект)</TrapIED_HighExplosive_Blueprint.label>
+  
+  <!-- UNUSED -->
+  <TrapIED_HighExplosive_Frame.label>Саморобна міна (будується)</TrapIED_HighExplosive_Frame.label>
+  <TrapIED_HighExplosive_Frame.description>Артилерійський снаряд, приєднаний до саморобного спускового механізму. Коли хтось його активує, боєприпас вибухає. На жаль, саморобний спусковий механізм має випадкову затримку спрацювання, що дозволяє спритному ворогу встигти вибігти із зони ураження.</TrapIED_HighExplosive_Frame.description>
+  
+  <!-- UNUSED -->
+  <TrapIED_Incendiary_Blueprint.label>Саморобна запальна міна (проект)</TrapIED_Incendiary_Blueprint.label>
+  
+  <!-- UNUSED -->
+  <TrapIED_Incendiary_Frame.label>Саморобна запальна міна (будується)</TrapIED_Incendiary_Frame.label>
+  <TrapIED_Incendiary_Frame.description>Вибухові речовини, змішані в запальну суміш і поєднані з хімічним тригером. Коли хтось активує міну, тригер підпалює запальну суміш, а невеличкий вибуховий заряд розкидає його навкруг. Так як потрібно здетонувати невелику кількість вибухових речовин, хімічний тригер є простішим та надійнішим за інші.</TrapIED_Incendiary_Frame.description>
+  
+  <!-- UNUSED -->
+  <Turret_Mortar_Blueprint.label>Міномет (проект)</Turret_Mortar_Blueprint.label>
+  
+  <!-- UNUSED -->
+  <Turret_Mortar_Frame.label>Міномет (будується)</Turret_Mortar_Frame.label>
+  <Turret_Mortar_Frame.description>Міномет, що стріляє розривними снарядами. Має керуватися колоністом. Вибухає при пошкодженні.</Turret_Mortar_Frame.description>
+  
+</LanguageData>
