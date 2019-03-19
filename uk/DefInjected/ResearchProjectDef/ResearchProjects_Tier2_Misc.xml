@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <ElectricCremation.label>Електрична кремація</ElectricCremation.label>
+  <ElectricCremation.description>Дозволяє будувати печі кремації, в яких можна спалювати зайві трупи.</ElectricCremation.description>
+  
+  <!-- UNUSED -->
+  <ElectricSmelting.label>Електроплавка</ElectricSmelting.label>
+  <ElectricSmelting.description>Дозволяє будувати електричні плавильні, за допомогою яких, використовуючи потужні електромагніти та високу температуру, з шматків шлака та інших предметов можна видобути метал.</ElectricSmelting.description>
+  
+  <!-- UNUSED -->
+  <IEDIncendiary.label>Саморобні запальні міни</IEDIncendiary.label>
+  <IEDIncendiary.description>Дозволяє колоністам створювати запальні міни з артилерійських боєприпасів.</IEDIncendiary.description>
+  
+</LanguageData>

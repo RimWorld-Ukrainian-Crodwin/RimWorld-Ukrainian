@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <Make_Apparel_KevlarHelmet.label>Зробити кевларовий шолом</Make_Apparel_KevlarHelmet.label>
+  <Make_Apparel_KevlarHelmet.description>Зробити кевларовий шолом.</Make_Apparel_KevlarHelmet.description>
+  <Make_Apparel_KevlarHelmet.jobString>Робить кевларовий шолом.</Make_Apparel_KevlarHelmet.jobString>
+  
+  <!-- UNUSED -->
+  <Make_Apparel_MilitaryHelmet.label>Зробити військовий шолом</Make_Apparel_MilitaryHelmet.label>
+  <Make_Apparel_MilitaryHelmet.description>Зробити військовий шолом.</Make_Apparel_MilitaryHelmet.description>
+  <Make_Apparel_MilitaryHelmet.jobString>Робить військовий шолом.</Make_Apparel_MilitaryHelmet.jobString>
+  
+  <!-- UNUSED -->
+  <Make_Apparel_VestPlate.label>Зробити бронежилет</Make_Apparel_VestPlate.label>
+  <Make_Apparel_VestPlate.description>Зробити бронежилет.</Make_Apparel_VestPlate.description>
+  <Make_Apparel_VestPlate.jobString>Робить бронежилет.</Make_Apparel_VestPlate.jobString>
+  
+  <!-- UNUSED -->
+  <Make_Medicine.label>Виготовити медикаменти</Make_Medicine.label>
+  <Make_Medicine.description>Виготовити медикаменти.</Make_Medicine.description>
+  <Make_Medicine.jobString>Робить медикаменти.</Make_Medicine.jobString>
+  
+  <!-- UNUSED -->
+  <Make_MeleeWeapon_Shiv.label>Змайструвати заточку</Make_MeleeWeapon_Shiv.label>
+  <Make_MeleeWeapon_Shiv.description>Змайструвати заточку.</Make_MeleeWeapon_Shiv.description>
+  <Make_MeleeWeapon_Shiv.jobString>Майструє заточку.</Make_MeleeWeapon_Shiv.jobString>
+  
+</LanguageData>

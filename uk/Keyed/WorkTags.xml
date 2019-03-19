@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+
+  <!-- EN: none -->
+  <WorkTagNone>відсутнє</WorkTagNone>
+  <!-- EN: intellectual -->
+  <WorkTagIntellectual>інтелектуальна праця</WorkTagIntellectual>
+  <!-- EN: dumb labor -->
+  <WorkTagManualDumb>фізична праця</WorkTagManualDumb>
+  <!-- EN: skilled labor -->
+  <WorkTagManualSkilled>кваліфікована праця</WorkTagManualSkilled>
+  <!-- EN: violent -->
+  <WorkTagViolent>насильство</WorkTagViolent>
+  <!-- EN: caring -->
+  <WorkTagCaring>піклування</WorkTagCaring>
+  <!-- EN: social -->
+  <WorkTagSocial>спілкування</WorkTagSocial>
+  <!-- EN: animals -->
+  <WorkTagAnimals>тваринництво</WorkTagAnimals>
+  <!-- EN: artistic -->
+  <WorkTagArtistic>творчість</WorkTagArtistic>
+  <!-- EN: crafting -->
+  <WorkTagCrafting>майстрування</WorkTagCrafting>
+  <!-- EN: cooking -->
+  <WorkTagCooking>кухарство</WorkTagCooking>
+  <!-- EN: firefighting -->
+  <WorkTagFirefighting>пожежогасіння</WorkTagFirefighting>
+  <!-- EN: cleaning -->
+  <WorkTagCleaning>прибирання</WorkTagCleaning>
+  <!-- EN: hauling -->
+  <WorkTagHauling>перенесення</WorkTagHauling>
+  <!-- EN: plant work -->
+  <WorkTagPlantWork>землеробство</WorkTagPlantWork>
+  <!-- EN: mining -->
+  <WorkTagMining>шахтарство</WorkTagMining>
+
+  <!-- UNUSED -->
+  <WorkTagScary>залякування</WorkTagScary>
+
+</LanguageData>
