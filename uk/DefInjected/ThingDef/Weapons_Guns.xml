@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- UNUSED -->
+  <Bullet_PDW.label>Куля УЗІ</Bullet_PDW.label>
+  
+  <!-- UNUSED -->
+  <Bullet_PumpShotgun.label>Набої з дробом</Bullet_PumpShotgun.label>
+  
+  <!-- UNUSED -->
+  <Gun_PDW.label>УЗІ</Gun_PDW.label>
+  <Gun_PDW.description>Зброя самозахисту. Мініатюрний пістолет-кулемет. Має малу дальність, низький урон, але дуже високий темп стрільби.</Gun_PDW.description>
+  
+</LanguageData>
