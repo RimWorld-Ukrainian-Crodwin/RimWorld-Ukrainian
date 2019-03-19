@@ -1,0 +1,5 @@
+files:
+  - source: '*.txt'
+    translation: '%original_path%/%original_file_name%'
+  - source: '*.xml'
+    translation: '%original_path%/%original_file_name%'
