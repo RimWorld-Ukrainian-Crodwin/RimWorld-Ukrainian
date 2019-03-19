@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: joywire -->
+  <Joywire.label>Фландерс-чіп</Joywire.label>
+  <!-- EN: a joywire -->
+  <Joywire.labelNoun>TODO</Joywire.labelNoun>
+  
+  <!-- EN: painstopper -->
+  <Painstopper.label>агло-блок</Painstopper.label>
+  <!-- EN: a painstopper -->
+  <Painstopper.labelNoun>TODO</Painstopper.labelNoun>
+  
+</LanguageData>
