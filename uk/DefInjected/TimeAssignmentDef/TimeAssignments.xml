@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  
+  <!-- EN: anything -->
+  <Anything.label>Будь-що</Anything.label>
+  
+  <!-- EN: recreation -->
+  <Joy.label>Відпочинок</Joy.label>
+  
+  <!-- EN: sleep -->
+  <Sleep.label>Сон</Sleep.label>
+  
+  <!-- EN: work -->
+  <Work.label>Праця</Work.label>
+  
+</LanguageData>
